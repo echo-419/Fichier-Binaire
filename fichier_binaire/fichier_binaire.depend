@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1519658182 source:c:\users\maxba\onedrive\ludus\codeblock\fichier_binaire\main.c
+	<stdio.h>
+	<stdlib.h>
+
