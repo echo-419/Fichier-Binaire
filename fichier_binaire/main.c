@@ -124,7 +124,7 @@ void read_carte(FILE * pFile){
 
     if (result!=0){
         for(i=0;i<=result;i++){
-        printf("%",buffer[i]);
+        printf("%c",buffer[i]);
         }
     }
 
